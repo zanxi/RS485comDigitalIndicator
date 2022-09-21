@@ -1,0 +1,17 @@
+D:\_V2017_\_MyApax__\_MyRS485com__\RS485com\RS485com\bin\Debug\RS485com.exe.config
+D:\_V2017_\_MyApax__\_MyRS485com__\RS485com\RS485com\bin\Debug\RS485com.exe
+D:\_V2017_\_MyApax__\_MyRS485com__\RS485com\RS485com\bin\Debug\RS485com.pdb
+D:\_V2017_\_MyApax__\_MyRS485com__\RS485com\RS485com\obj\Debug\RS485com.exe
+D:\_V2017_\_MyApax__\_MyRS485com__\RS485com\RS485com\obj\Debug\RS485com.pdb
+c:\Users\PPU1\OneDrive\____________\_MyApax__\_MyRS485com__\RS485com\RS485com\bin\Debug\RS485com.exe.config
+c:\Users\PPU1\OneDrive\____________\_MyApax__\_MyRS485com__\RS485com\RS485com\obj\Debug\RS485com.exe
+c:\Users\PPU1\OneDrive\____________\_MyApax__\_MyRS485com__\RS485com\RS485com\obj\Debug\RS485com.pdb
+c:\Users\PPU1\OneDrive\____________\_MyApax__\_MyRS485com__\RS485com\RS485com\bin\Debug\RS485com.exe
+c:\Users\PPU1\OneDrive\____________\_MyApax__\_MyRS485com__\RS485com\RS485com\bin\Debug\RS485com.pdb
+c:\Users\PPU1\OneDrive\____________\_MyApax__\_MyRS485com__\RS485com\RS485com\obj\Debug\RS485com.csprojResolveAssemblyReference.cache
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.csprojResolveAssemblyReference.cache
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.exe
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.pdb
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe.config
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.pdb

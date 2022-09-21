@@ -1,0 +1,13 @@
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe.config
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.pdb
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.exe
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.pdb
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe.config
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.pdb
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS232com.csproj.AssemblyReference.cache
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS232com.csproj.SuggestedBindingRedirects.cache
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS232com.csproj.CoreCompileInputs.cache
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.exe
+C:\_2022___\_dellllllll__\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.pdb
